@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  modular-loki:
+  - apiVersion: v2
+    appVersion: 1.6.1
+    created: "2020-10-23T21:12:36.853086433Z"
+    description: Loki running in microservices mode
+    digest: ac03c713fa1508f83259ff814cff37c3c9bcaa07b2bf4b62e0906a69eff7123d
+    name: modular-loki
+    type: application
+    urls:
+    - https://github.com/GarnerCorp/helm-charts/releases/download/modular-loki-0.0.1/modular-loki-0.0.1.tgz
+    version: 0.0.1
+generated: "2020-10-23T21:12:36.671406299Z"
